@@ -103,7 +103,7 @@ Here, we have to change the default python version to **python2**. When we insta
 
 - https://www.fosslinux.com/39384/switching-between-python-2-and-3-versions-on-ubuntu-20-04.htm
 
-## Step 15: OpenAi_Ros (For Reinforcement Learning with ROS)
+## Step 14: OpenAi_Ros (For Reinforcement Learning with ROS)
 
 ```
 cd ~/catkin_ws/src
